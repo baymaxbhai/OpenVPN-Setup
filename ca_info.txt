@@ -1,8 +1,8 @@
-CO
-ST
-CITY
-ORG
+SG
+SINGAPORE
+TELIN
+baymax_ent
 ORG-UNIT
 COMMON-NAME
-NAME
-EMAIL
+baymax
+baymaxbhaissh@gmail.com
