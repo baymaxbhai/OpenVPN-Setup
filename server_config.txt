@@ -1,7 +1,7 @@
 local LOCALIP
 dev tun
-proto udp
-port 1194
+proto tcp
+port 3128
 ca /etc/openvpn/easy-rsa/keys/ca.crt
 cert /etc/openvpn/easy-rsa/keys/server.crt
 key /etc/openvpn/easy-rsa/keys/server.key
@@ -34,4 +34,4 @@ persist-tun
 status /var/log/openvpn-status.log 20
 log /var/log/openvpn.log
 verb 1
-# This configuration file was originally written by Lauren Orsini at ReadWrite.
+# baymax_bhai
