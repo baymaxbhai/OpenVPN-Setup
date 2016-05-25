@@ -3,6 +3,6 @@ SINGAPORE
 TELIN
 baymax_ent
 ORG-UNIT
-COMMON-NAME
+server
 baymax
 baymaxbhaissh@gmail.com
